@@ -10,5 +10,7 @@ Display a list of Athkar using RecyclerView
 
 
 ### Output
-![unknown](https://user-images.githubusercontent.com/110332003/183901968-48f600c6-9989-401c-b563-bd5b40d735c8.png)
+
+<img src="https://user-images.githubusercontent.com/110332003/183901968-48f600c6-9989-401c-b563-bd5b40d735c8.png" alt="Layout Output" width="50%"/>
+
 
