@@ -9,6 +9,17 @@ Display a list of Athkar using RecyclerView
 5. Add dependencies to [Gradle](https://developer.android.com/jetpack/androidx/releases/recyclerview#groovy)
 
 
+### Steps | الخطوات
+- Add RecyclerView library in Gradle file 
+- Add RecyclerView element in your Activity Main layout file 
+- Design item layout 
+- Create Adapter class 
+- Create ViewHolder class 
+- Create Model class
+- Create Data source class 
+- Link adapter and RecyclerView in Activity Main
+
+
 ### Output
 
 <img src="https://user-images.githubusercontent.com/110332003/183901968-48f600c6-9989-401c-b563-bd5b40d735c8.png" alt="Layout Output" width="50%"/>
